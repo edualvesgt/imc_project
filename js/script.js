@@ -61,7 +61,7 @@ function listarPessoas() {
         template += `
     <tr>
     <td>${p.nome}</td>
-    <td${p.altura}</td>
+    <td>${p.altura}</td>
     <td>${p.peso}</td>
     <td>${p.imc}</td>
     <td>${p.situacao}</td>
